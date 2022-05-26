@@ -1,3 +1,3 @@
-  Hi, I’m software engineer
-  I’m a full stack developer.
-  I’m currently working on some exciting projects using the latest technologies in the world.
+ - Hi, I’m software engineer.
+ - I’m currently working on some exciting projects using the latest technologies in the world.
+ - In addition to what's been mentioned, i like playing football.
